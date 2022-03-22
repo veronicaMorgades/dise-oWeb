@@ -1,5 +1,0 @@
-use TicGol;
-select Nombre
-from Jugadores;
-
-alter table Jugadores add Posicion varchar(50);
